@@ -1,13 +1,13 @@
 <p align="center">
-<a href="https://serverninja.xyz"><img src="https://icons.iconarchive.com/icons/chrisl21/minecraft/128/3D-Mycelium-icon.png" title="SNMC Repo/Configs" alt="SNMC Repo"></a>
+<a href=""><img src="https://icons.iconarchive.com/icons/chrisl21/minecraft/128/3D-Mycelium-icon.png" title="SNMC Repo/Configs" alt="SNMC Repo"></a>
 </p>
 
 # SNMC price guide
 
 > Repository Storing all of the current code used on SNMC's Price List.
 
-[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://discord.serverninja.xyz/) [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)](https://discord.serverninja.xyz/)
-[![Build Status](https://img.shields.io/badge/SNMC-Live-blueviolet)](https://discord.serverninja.xyz/)
+[![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)]() [![Coverage Status](http://img.shields.io/coveralls/badges/badgerbadgerbadger.svg?style=flat-square)]()
+[![Build Status](https://img.shields.io/badge/SNMC-Live-blueviolet)]()
 
 # Usage
 
